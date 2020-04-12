@@ -9,7 +9,7 @@
 > This is a SMS and Email Bomber open source Android App and Website to send unlimited SMS
 
 ## Screenshots
-<p align="center"><img src="http://bomberx.in/img/bomber.png" width="250"></p>
+<p align="right"><img src="http://bomberx.in/img/bomber.png" width="250"></p>
 
 ### Initiate SMS Bombing
 
