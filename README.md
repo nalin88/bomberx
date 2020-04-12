@@ -9,7 +9,7 @@
 > This is a SMS and Email Bomber open source Android App and Website to send unlimited SMS
 
 ## Screenshots
-<p align="left"><img src="http://bomberx.in/img/bomber.png" width="250"></p>
+<p align="center"><img src="http://bomberx.in/img/bomber.png" width="250"></p>
 
 ### Initiate SMS Bombing
 
@@ -21,7 +21,7 @@
 
 - This App provides you a protection support for 7 days. By using inbuilt protection features no one can start bombing on your number. you can also extends the period of protection very easily.
 
-<p align="right"><img src="http://bomberx.in/img/feedback.png" width="250"></p>
+<p align="center"><img src="http://bomberx.in/img/feedback.png" width="250"></p>
 
 
 ### Feedback Support
