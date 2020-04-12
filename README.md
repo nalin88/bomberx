@@ -6,7 +6,7 @@
 
 ## Bomberx
 
-> This is a SMS and Email Bomber open source Android App and Website to send unlimited SMS
+> This is a indian SMS Bomber open source Android App and Website to send unlimited SMS
 
 ## App Screenshots
 <p align="center"><img src="http://bomberx.in/img/bomber.png" width="250"></p>
