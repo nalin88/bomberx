@@ -63,4 +63,8 @@
     * adding a whole new UI
 
 ## NOTE 
-- I WON'T BE RESPONSIBLE FOR ANY DAMAGE CAUSED IN ANY CASE. USE IT ONLY TO PRANK YOUR BUDDIES.
+- Bomberx developer won't be responsible for any damage caused.
+- Do not use Bomberx to harm others.
+- Bomberx is only for educational purposes or to prank.
+- None of the developers/contributors are responsible for the misuse of Bomberx.
+
