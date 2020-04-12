@@ -11,6 +11,9 @@
 ## Screenshots
 <p align="center"><img src="http://bomberx.in/img/bomber.png" width="250"></p>
 <p align="center"><img src="http://bomberx.in/img/protection.png" width="250"></p>
+#Activate Protection
+This App provides you a protection support for 7 days. By using inbuilt protection features no one can start bombing on your number. you can also extends the period of protection very easily.
+
 <p align="center"><img src="http://bomberx.in/img/feedback.png" width="250"></p>
 
 ## Release History
