@@ -38,6 +38,14 @@
 - Make sure you are using the latest version of Bomberx
 - This is available for indian users only.
 
+## Features 
+- Many SMS bombing API integrated.
+- fast bombing.
+- send 150 SMS at a time.
+- add your number in a protection list.
+- feedback support.
+- night light feature.
+
 ## Release History
 
 * 2.2.5
