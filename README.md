@@ -8,6 +8,11 @@
 
 > This is a indian SMS Bomber open source Android App and Website to send unlimited SMS
 
+Bomberx is a prank tool, Which can send huge amount of messages in one time. You can use it on your indian friends and irritate them.
+Our Tools can send unlimited messages a time.
+Just enter your friend's number (Target) and enter the limit (How much you want to send) and hit the submit button.
+Also we have a unlimited sms bomber, just enter the mobile number which you want to bomb and hit the submit button. 
+
 ## App Screenshots
 <p align="center"><img src="http://bomberx.in/img/bomber.png" width="250"></p>
 
