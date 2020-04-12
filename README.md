@@ -21,7 +21,7 @@
 
 ### Feedback Support
 
-This App provides you a protection support for 7 days. By using inbuilt protection features no one can start bombing on your number. you can also extends the period of protection very easily.
+- This App provides you a protection support for 7 days. By using inbuilt protection features no one can start bombing on your number. you can also extends the period of protection very easily.
 
 
 ## Release History
