@@ -10,6 +10,11 @@
 
 ## Screenshots
 <p align="center"><img src="http://bomberx.in/img/bomber.png" width="250"></p>
+
+### Initiate SMS Bombing
+
+- Send bulk sms on your friends number. A perfect prank tool to prank with your friends. Note:- "This tool is for fun purpose only if anyone is using it for revenge he himself is resposible, Developer is not responsible" 
+
 <p align="center"><img src="http://bomberx.in/img/protection.png" width="250"></p>
 
 ### Activate Protection
