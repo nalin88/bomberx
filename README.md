@@ -4,8 +4,32 @@
 <a href="https://bomberx.in/update"><img src="https://cdn.worldvectorlogo.com/logos/google-play-download-android-app.svg"  width="140" alt="download bomberx"></a>
 </p>
 
-# # bomberx
+## bomberx
 
 > This is a SMS and Email Bomber open source Android App and Website to send unlimited SMS
+
+## Release History
+
+* 2.2.5
+    * Added onboarding screen
+    * Added double back to exit features.
+    * improve UI
+    * Added more sms bomber api call.
+* 2.0.0
+    * Added how to use popup module.
+    * improved API call of protection features.
+    * Added instagram icon to follow official insta page.
+* 1.5.5
+    * FIX: Crash when calling during loading on some devices.
+    * Added share Features
+    * Added in app webview.
+* 1.2.2
+    * The first proper release
+    * Added bottom loading popup during submission.
+    * Added protection Features
+    * Add Settings and feedback page
+* 1.0.0
+    * Work in progress
+    * adding a whole new UI
 
 
