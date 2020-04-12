@@ -29,7 +29,7 @@
 - This App provides you a protection support for 7 days. By using inbuilt protection features no one can start bombing on your number. you can also extends the period of protection very easily.
 
 
-## Note:
+## Requirements:
 
 - The script requires working network connection to work.
 - No balance will be deducted for using this script to send SMS/calls.
@@ -62,4 +62,5 @@
     * Work in progress
     * adding a whole new UI
 
-
+## NOTE 
+- I WON'T BE RESPONSIBLE FOR ANY DAMAGE CAUSED IN ANY CASE. USE IT ONLY TO PRANK YOUR BUDDIES.
