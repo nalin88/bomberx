@@ -4,7 +4,7 @@
 <a href="https://bomberx.in/update"><img src="https://cdn.worldvectorlogo.com/logos/google-play-download-android-app.svg"  width="140" alt="download bomberx"></a>
 </p>
 
-## bomberx
+## Bomberx
 
 > This is a SMS and Email Bomber open source Android App and Website to send unlimited SMS
 
